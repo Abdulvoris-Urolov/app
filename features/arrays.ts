@@ -19,5 +19,3 @@ carMakers.map((car: string): string => {
 const importDates: (Date | string)[] = [new Date()]; 
 importDates.push('2023-10-10');
 importDates.push(new Date());
-
-// bu comment faqat test uchun push qilish uchun kerak bo'ldi.
