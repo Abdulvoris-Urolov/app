@@ -12,3 +12,5 @@ axios_1["default"].get(url).then(function (res) {
 var logTodo = function (id, title, completed) {
     console.log("\n  The Todo with ID: " + id + "\n  Has a title of: " + title + "\n  Is it finished? " + completed + "\n  ");
 };
+
+
